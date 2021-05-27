@@ -1,0 +1,4 @@
+Les touches :
+➡️ : Avancer				A : Coup d’épée			E :Interagir
+⬅️ : Rester immobile			⬇️: Glissade
+⬆️ : Sauter				Escape : Pause
